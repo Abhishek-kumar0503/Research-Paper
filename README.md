@@ -1,3 +1,5 @@
+This Research Paper in field of Artificial Intelligence to Identifyng Human-Written, BARD and ChatGPT Generated Text using Machine and Deep Learning
+
 ## Dataset
 Combine1.csv file has 500 data points each of Human-text, ChatGPT and BARD generated text.
 
